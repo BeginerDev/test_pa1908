@@ -1,0 +1,4 @@
+
+Today is Monday 18/11/2019
+My name's Chien
+I learning Android and lession today is Git and gitHub
